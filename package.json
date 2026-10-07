@@ -1,0 +1,22 @@
+{
+  "name": "unirise",
+  "version": "1.0.0",
+  "description": "UNIRISE — Integrated Campus Navigation, Student Clubs, Projects, and Personal Messaging Platform",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js",
+    "test": "node backend/tests/test_critical_bugs.js"
+  },
+  "keywords": [
+    "campus-platform",
+    "flutter",
+    "node",
+    "express",
+    "mongodb",
+    "socket.io",
+    "dypcoe"
+  ],
+  "author": "UNIRISE Team",
+  "license": "MIT"
+}
